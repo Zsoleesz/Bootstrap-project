@@ -1,2 +1,2 @@
 # Bootstrap-project
-One page bootstrap template.
+This is a simple one page bootstrap template. There is no backend behind contact form.
